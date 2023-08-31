@@ -2,7 +2,7 @@
 
 ## Índice
 
-##Especificaciones de requerimientos
+## Especificaciones de requerimientos
 - [Requerimientos de usuario](#requerimientos-de-usuario)
 - [Requerimientos Funcionales](#requerimientos-funcionales)
 - [Requerimientos No Funcionales](#requerimientos-no-funcionales)
