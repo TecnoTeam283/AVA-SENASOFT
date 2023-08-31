@@ -49,12 +49,64 @@ El sistema contara con 3 tipos de usuario:
     - Roles y Permisos: Asignación de roles y permisos a los usuarios.
     - Supervisión: Visualización de actividades y uso de la plataforma.
     - Mantenimiento: Gestión técnica y actualizaciones de la plataforma.
-    - Integración Externa: Configuración de integración con herramientas externas.
+
  
 
 Aquí se describen los requisitos desde la perspectiva del usuario.
 
 ### Requerimientos Funcionales
+
+Los requerimientos funcionales son aquellas soluciones tecnicas que se necesitan para el cumplimiento de las necesidades de las partes interesadas:
+
+RF01 - Mostrar pagina de inicio
+RF02 - Crear cuenta 
+RF03 - Iniciar sesión
+RF04 - Cuenta administrador
+      RF04.1 - Home
+            RF04.1.1 - Gestión de Usuarios
+              RF04.1.1.1 - Registro de estudiantes y profesores
+              RF04.1.1.2 - Edición de estudiantes y profesores
+              RF04.1.1.3 - Eliminación de estudiantes y profesores 
+            RF04.1.2 - Perfil
+                  RF04.1.2.1 - Ver información
+                  RF04.1.2.2 - Actualizar información
+                  
+RF05 – Cuenta Profesor
+      RF05.1 - Home
+            RF05.1.1 - Gestionar cursos 
+                  RF05.1.1.1 - Crear cursos, módulos y lecciones.
+                  RF05.1.1.2 - Editar cursos, módulos y lecciones.
+                  RF05.1.1.3 - Eliminar cursos, módulos y lecciones.
+            RF05.1.2 - Cargar material educativo.
+            RF05.1.3 - Perfil
+              RF05.1.3.1 - Ver información
+              RF05.1.3.2 - Actualizar información
+            RF05.1.4 - Seguimiento de estudiantes
+              RF05.1.4.1 - Visualizar informes y calificaciones de estudiantes
+            RF05.1.5 - Comunicación
+              RF05.1.5.1 - Interactuar con estudiantes a través de foros y chats
+            RF05.1.6 - Programar calendario
+              RF05.1.6.1 - Programar clases
+              RF05.1.6.1 - Programar examenes
+              
+RF06 – Cuenta Estudiante
+  RF06.1 - Acceder a cursos
+    RF06.1.1 - Visualizar cursos disponibles
+  RF06.2 - Visualización de materiales de estudio
+  RF06.3 - Progreso
+    RF06.3.1 - Visualizar el progreso de los cursos
+    RF06.3.2 - Visualizar el progreso de los modulos
+  RF06.4 - Foro de comunicacón entre profesores y estudiantes
+  RF06.5 - Actividades en linea
+    RF06.5.1 - Responder Cuestionarios, examanes y tareas en linea
+  RF06.6 - Calendario
+    RF06.6.1 Visualizar fechas importantes y plazos de trabajos
+  Rf06.7 - Notificaciones.
+    
+    
+  
+        
+              
 
 En esta sección, se listan los requerimientos funcionales del proyecto.
 
