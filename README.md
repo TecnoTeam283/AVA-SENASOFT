@@ -104,6 +104,24 @@ En esta sección, se listan los requerimientos funcionales del proyecto.
 
 ### Requerimientos No Funcionales
 
+- Categoría	Usabilidad
+  - RNF01 - Aprendizaje del sistema	El tiempo de aprendizaje del     sistema por un usuario deberá ser menor a 4 horas.
+  - RNF02 – Tiempo de registro	Los usuarios deben poder completar la tarea de registro en no más de 5 minutos.
+  - RNF03 – Acceso de información	Los usuarios deben poder acceder a la información que necesitan en no más de 4 clics.
+
+
+Categoría	Confiabilidad
+  - RNF04 – Seguridad de datos	Los datos almacenados en el sistema deben estar protegidos con medidas de seguridad adecuadas para evitar la pérdida o alteración no autorizada de información.
+  - RNF05 - Disponibilidad	El sistema debe ser capaz de manejar una carga de usuarios concurrentes de al menos 2000 usuarios sin afectar el rendimiento.
+
+- Categoría	Seguridad
+  - RNF06 – Acceso al sistema	El acceso al sistema debe ser controlado por un sistema de autenticación (JWT) de usuarios basado en numero de identificación y contraseñas.
+
+Categoría	Portabilidad
+  - RNF07 – Portabilidad de dispositivos	El sistema debe ser capaz de ejecutarse en diferentes tipos de dispositivos, incluyendo computadoras de escritorio, portátiles y dispositivos móviles.
+  - RNF08 – Compatibilidad entre navegadores	El sistema debe ser compatible con la mayoría de navegadores.
+
+
 Esta sección aborda los aspectos no funcionales, como rendimiento, seguridad, etc.
 
 
