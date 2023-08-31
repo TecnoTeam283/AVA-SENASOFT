@@ -2,15 +2,10 @@
 
 ## Índice
 
-- [Especificaciones de requerimientos](#especificaciones-de-requerimientos)
+##Especificaciones de requerimientos
 - [Requerimientos de usuario](#requerimientos-de-usuario)
 - [Requerimientos Funcionales](#requerimientos-funcionales)
 - [Requerimientos No Funcionales](#requerimientos-no-funcionales)
-
-
-## Especificaciones de requerimientos
-
-En esta sección, se detallan los requerimientos del proyecto.
 
 
 ### Requerimientos de usuario
