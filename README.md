@@ -62,32 +62,32 @@ Los requerimientos funcionales son aquellas soluciones tecnicas que se necesitan
 - RF02 - Crear cuenta 
 - RF03 - Iniciar sesión
 - RF04 - Cuenta administrador
-      - RF04.1 - Home
-            - RF04.1.1 - Gestión de Usuarios
-              - RF04.1.1.1 - Registro de estudiantes y profesores
-              - RF04.1.1.2 - Edición de estudiantes y profesores
-              - RF04.1.1.3 - Eliminación de estudiantes y profesores 
-            - RF04.1.2 - Perfil
-                  - RF04.1.2.1 - Ver información
-                  - RF04.1.2.2 - Actualizar información
+  - RF04.1 - Home
+    - RF04.1.1 - Gestión de Usuarios
+      - RF04.1.1.1 - Registro de estudiantes y profesores
+      - RF04.1.1.2 - Edición de estudiantes y profesores
+      - RF04.1.1.3 - Eliminación de estudiantes y profesores 
+    - RF04.1.2 - Perfil
+      - RF04.1.2.1 - Ver información
+      - RF04.1.2.2 - Actualizar información
                   
 - RF05 – Cuenta Profesor
-      - RF05.1 - Home
-            - RF05.1.1 - Gestionar cursos 
-                  - RF05.1.1.1 - Crear cursos, módulos y lecciones.
-                  - RF05.1.1.2 - Editar cursos, módulos y lecciones.
-                  - RF05.1.1.3 - Eliminar cursos, módulos y lecciones.
-            - RF05.1.2 - Cargar material educativo.
-            - RF05.1.3 - Perfil
-              - RF05.1.3.1 - Ver información
-              - RF05.1.3.2 - Actualizar información
-            - RF05.1.4 - Seguimiento de estudiantes
-              - RF05.1.4.1 - Visualizar informes y calificaciones de estudiantes
-            - RF05.1.5 - Comunicación
-              - RF05.1.5.1 - Interactuar con estudiantes a través de foros y chats
-            - RF05.1.6 - Programar calendario
-              - RF05.1.6.1 - Programar clases
-              - RF05.1.6.1 - Programar examenes
+  - RF05.1 - Home
+    - RF05.1.1 - Gestionar cursos 
+      - RF05.1.1.1 - Crear cursos, módulos y lecciones.
+      - RF05.1.1.2 - Editar cursos, módulos y lecciones.
+      - RF05.1.1.3 - Eliminar cursos, módulos y lecciones.
+    - RF05.1.2 - Cargar material educativo.
+    - RF05.1.3 - Perfil
+      - RF05.1.3.1 - Ver información
+      - RF05.1.3.2 - Actualizar información
+      - RF05.1.4 - Seguimiento de estudiantes
+        - RF05.1.4.1 - Visualizar informes y calificaciones de estudiantes
+      - RF05.1.5 - Comunicación
+        - RF05.1.5.1 - Interactuar con estudiantes a través de foros y chats
+      - RF05.1.6 - Programar calendario
+        - RF05.1.6.1 - Programar clases
+        - RF05.1.6.1 - Programar examenes
               
 - RF06 – Cuenta Estudiante
   - RF06.1 - Acceder a cursos
